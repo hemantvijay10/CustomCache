@@ -1,0 +1,14 @@
+C:\Hemant\C#\CustomCache\bin\Debug\net9.0\CustomCache.exe
+C:\Hemant\C#\CustomCache\bin\Debug\net9.0\CustomCache.deps.json
+C:\Hemant\C#\CustomCache\bin\Debug\net9.0\CustomCache.runtimeconfig.json
+C:\Hemant\C#\CustomCache\bin\Debug\net9.0\CustomCache.dll
+C:\Hemant\C#\CustomCache\bin\Debug\net9.0\CustomCache.pdb
+C:\Hemant\C#\CustomCache\obj\Debug\net9.0\CustomCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hemant\C#\CustomCache\obj\Debug\net9.0\CustomCache.AssemblyInfoInputs.cache
+C:\Hemant\C#\CustomCache\obj\Debug\net9.0\CustomCache.AssemblyInfo.cs
+C:\Hemant\C#\CustomCache\obj\Debug\net9.0\CustomCache.csproj.CoreCompileInputs.cache
+C:\Hemant\C#\CustomCache\obj\Debug\net9.0\CustomCache.dll
+C:\Hemant\C#\CustomCache\obj\Debug\net9.0\refint\CustomCache.dll
+C:\Hemant\C#\CustomCache\obj\Debug\net9.0\CustomCache.pdb
+C:\Hemant\C#\CustomCache\obj\Debug\net9.0\CustomCache.genruntimeconfig.cache
+C:\Hemant\C#\CustomCache\obj\Debug\net9.0\ref\CustomCache.dll
